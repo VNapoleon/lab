@@ -6,5 +6,4 @@ commit 2
 commit4
 local change
 
-commit 3
 
